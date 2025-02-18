@@ -1,5 +1,5 @@
 # Test
 "Hallo"
 ```
-Console.Line("Hallo")
+Console.WriteLine("Hallo")
 ```
